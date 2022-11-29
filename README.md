@@ -4,6 +4,14 @@
     <h3 align="center"> I am a happy, creative and passionate guy from Gijón, Northern-Spain. I love creativity, music and coffee. But everything is better with people around.
     I am a Junior Full Stack Developer.You will find that currently I´m improving my ninja deploy skills. </h3>
 </div>
+<div id="badges" align="center">
+    <a href="https://github.com/LuisferGuevara">
+        <img src="https://img.shields.io/github/followers/LuisferGuevara?logo=git&style=for-the-badge">
+    </a>
+    <a href="https://www.linkedin.com/in/luisferguevarapro/">
+        <img src="https://logos-world.net/wp-content/uploads/2020/06/Linkedin-Logo-2011.png">
+    </a>
+</div>
 ### Hi there 👋
 
 <!--
