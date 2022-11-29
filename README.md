@@ -1,3 +1,9 @@
+<div id="header" align="center">
+    <img src="https://cv-luisfer.netlify.app/assets/logo-2.png" width="200" />
+    <h1 align="center"> Hi 🙋🏻‍♂️, I'm Luisfer Guevara  </h1>
+    <h3 align="center"> I am a happy, creative and passionate guy from Gijón, Northern-Spain. I love creativity, music and coffee. But everything is better with people around.
+    I am a Junior Full Stack Developer.You will find that currently I´m improving my ninja deploy skills. </h3>
+</div>
 ### Hi there 👋
 
 <!--
