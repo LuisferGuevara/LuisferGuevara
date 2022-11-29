@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/github/followers/LuisferGuevara?logo=git&style=for-the-badge">
     </a>
     <a href="https://www.linkedin.com/in/luisferguevarapro/">
-        <img src="https://logos-world.net/wp-content/uploads/2020/06/Linkedin-Logo-2011.png">
+        <img src="https://logos-world.net/wp-content/uploads/2020/06/Linkedin-Logo-2011.png" width="100">
     </a>
 </div>
 ### Hi there 👋
